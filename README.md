@@ -53,7 +53,7 @@ Force update
 # Forc Update
 که در صورت نیاز apk جدید به صورت مستقل روی گوشی کاربر دانلود شده و به صورت اتوماتیک نصب میشود.
 
-# همکازی:
+# همکاری:
 https://github.com/Ghazal-Jamalzadeh/ParsianFlutterApplication
 
 
